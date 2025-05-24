@@ -1,0 +1,4 @@
+Link to the tutorial I followed for this project:
+
+https://pyimagesearch.com/2018/07/09/face-clustering-with-python/
+
